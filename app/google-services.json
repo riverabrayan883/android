@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "655075541965",
-    "project_id": "android-2e267",
-    "storage_bucket": "android-2e267.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:655075541965:android:3bf7325cb278b65580fa84",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.notificaciones"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC3KITQtLTSaCXfbbX0RE2q28IXQMf9pL8"
+          "current_key": ""
         }
       ],
       "services": {
